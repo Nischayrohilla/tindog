@@ -138,6 +138,11 @@ text-align: center;
 {
 	margin: 20px 10px;
 }
+.logos
+{
+	width: 5%;
+	margin: 3%;
+}
 @media (max-width: 1028px)
 {
 	#title
